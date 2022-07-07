@@ -62,7 +62,7 @@
                         <input type="text" class="form-control" name="alamat">
                         <small id="emailHelp" class="form-text text-muted"></small>
                     </div>
-                    <button type="submit" name="save" class="btn btn-primary">simpan</button>
+                    <button type="submit" name="save" class="btn btn-primary">tambah</button>
                 </form>
 
             </div>
