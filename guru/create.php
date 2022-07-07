@@ -41,7 +41,7 @@
         <div class="container">
         <div class="card">
             <div class="card-header">
-                Tambah Dosen
+             Dosen
             </div>
             <div class="card-body">
                 
@@ -62,7 +62,7 @@
                         <input type="text" class="form-control" name="alamat">
                         <small id="emailHelp" class="form-text text-muted"></small>
                     </div>
-                    <button type="submit" name="save" class="btn btn-primary">Tambah    </button>
+                    <button type="submit" name="save" class="btn btn-primary">simpan</button>
                 </form>
 
             </div>
