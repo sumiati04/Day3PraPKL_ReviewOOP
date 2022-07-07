@@ -41,7 +41,7 @@
         <div class="container">
         <div class="card">
             <div class="card-header">
-                Data Guru
+                 Guru
             </div>
             <div class="card-body">
             <?php
